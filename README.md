@@ -1,6 +1,6 @@
 # Messenger 2025 - Cliente y Actualizador
 
-![Messenger Logo](https://raw.githubusercontent.com/mggons93/Messenger/refs/heads/main/files/update.ico)
+![Messenger Logo](https://raw.githubusercontent.com/mggons93/Messenger/refs/heads/main/files/WLM.ico)
 
 ## 📌 Descripción
 
